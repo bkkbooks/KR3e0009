@@ -29,17 +29,17 @@ assets:
   - {seq: 9, filename: KR3e0009_009-SBCK.yaml, hash: 'sha256:208384e2fbffd9bc6467bc461a796b481276e6d26a67a726ca3019a21eb3f27b'}
   - {seq: 10, filename: KR3e0009_010-SBCK.yaml, hash: 'sha256:3b7a03059b9f2dac2739310fe03914b003368f9316856f3517fc64df948cb331'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3e0009_000-SBCK.markers.yaml, hash: 'sha256:f7821ea5ba202d8a3058fc3ae15b39314994f977a387e530f613776fa4c6acd7'}
-  - {seq: 1, role: markers, filename: assets/KR3e0009_001-SBCK.markers.yaml, hash: 'sha256:9d7670065374a7f18918a7225f3a94fc2ade7610f339988fecc0c30a5d173fc7'}
-  - {seq: 2, role: markers, filename: assets/KR3e0009_002-SBCK.markers.yaml, hash: 'sha256:9165149067baead38f43f12fedd8878d72abd690467de79a721233383ebf3a71'}
-  - {seq: 3, role: markers, filename: assets/KR3e0009_003-SBCK.markers.yaml, hash: 'sha256:93c18cb28a3cd8a4b1fbdd7b21e0cb0044d008cc8e92c2b24bfef43d672ce748'}
-  - {seq: 4, role: markers, filename: assets/KR3e0009_004-SBCK.markers.yaml, hash: 'sha256:e9aea53c15ebec0e6d1c4f555aae3f39840d07f00ca851553cc2d2f1c87f3635'}
-  - {seq: 5, role: markers, filename: assets/KR3e0009_005-SBCK.markers.yaml, hash: 'sha256:024e7d279c380d963c79f8ced6a33ac60e52dabba858d8f6995cbf4491db5abb'}
-  - {seq: 6, role: markers, filename: assets/KR3e0009_006-SBCK.markers.yaml, hash: 'sha256:fb6bccf36ce4b36fd83f310acd62a62d50baae8713389420a28eebfb21d95b24'}
-  - {seq: 7, role: markers, filename: assets/KR3e0009_007-SBCK.markers.yaml, hash: 'sha256:6c3b436de24e74ba46ca258d78f33fb36b8448eeab5f7bd8b1a0f2aaff5ad59d'}
-  - {seq: 8, role: markers, filename: assets/KR3e0009_008-SBCK.markers.yaml, hash: 'sha256:993352cb76f8c81ed3c49d55615c6a0e22332ecc6eabbbda96835481b6496d60'}
-  - {seq: 9, role: markers, filename: assets/KR3e0009_009-SBCK.markers.yaml, hash: 'sha256:e335505b7371e989cde91f59d0f313a20fab34d69fb884b0f787a5ad0afc25dc'}
-  - {seq: 10, role: markers, filename: assets/KR3e0009_010-SBCK.markers.yaml, hash: 'sha256:37db02ec9475a55665d46f1bfc0d54c612fca841b3f8162fbcbdc56ecfa4d4eb'}
+  - {seq: 0, role: markers, filename: assets/KR3e0009_000-SBCK.markers.yaml, hash: 'sha256:652ea69ff1f31df755cc60fa235026e3ac2c596489586e40229a9949ecada052'}
+  - {seq: 1, role: markers, filename: assets/KR3e0009_001-SBCK.markers.yaml, hash: 'sha256:362ddd276bf1e3230875fc1edfbdc619259514ef20778dd9b3a3ecda7b15d288'}
+  - {seq: 2, role: markers, filename: assets/KR3e0009_002-SBCK.markers.yaml, hash: 'sha256:072001d494597fabd3c06f641e5dd0c8a3ce079e9f3df88e38d1ba787bb2e0ab'}
+  - {seq: 3, role: markers, filename: assets/KR3e0009_003-SBCK.markers.yaml, hash: 'sha256:6e3981c28a8d53348d7ceed38b7a6c82217625f93babe856ec0d2a2ae9ad1ae1'}
+  - {seq: 4, role: markers, filename: assets/KR3e0009_004-SBCK.markers.yaml, hash: 'sha256:d948f4ce4f0f2cbc60d98cb2b6eb787ec1625ca54691b8d740461edafe264771'}
+  - {seq: 5, role: markers, filename: assets/KR3e0009_005-SBCK.markers.yaml, hash: 'sha256:a5a4d9b33a74ca39d90e720b2e5b91d7b0df1de4182f44ce037cc94c4f06347e'}
+  - {seq: 6, role: markers, filename: assets/KR3e0009_006-SBCK.markers.yaml, hash: 'sha256:2cd55d1a53fb3058a04edb541001f86cb46b791c6f391386e64e723ba6b0d2bb'}
+  - {seq: 7, role: markers, filename: assets/KR3e0009_007-SBCK.markers.yaml, hash: 'sha256:3ff3276d439d72c9b36a041e6fc283abcc1b3ec8de45f4c78729f85db79ef90a'}
+  - {seq: 8, role: markers, filename: assets/KR3e0009_008-SBCK.markers.yaml, hash: 'sha256:027c29e8cb557704982cfb2fb163cf3221a16a2fd8a2d9fa90fde6f411589cbb'}
+  - {seq: 9, role: markers, filename: assets/KR3e0009_009-SBCK.markers.yaml, hash: 'sha256:e395475646f0f90cf96121d371b2156e5d5712a487de78ec9e7a9c6c93315ba3'}
+  - {seq: 10, role: markers, filename: assets/KR3e0009_010-SBCK.markers.yaml, hash: 'sha256:b6f0029122df21398b8e4f6ddc86407668f3e5aa15d0251ea9970d1620587f78'}
 table_of_contents:
 - ref:
     seq: 0
@@ -151,4 +151,4 @@ table_of_contents:
   label: juan 010
   type: section
   level: 1
-hash: sha256:c29e93242b9e84c8ec4c809f521d3dec74798f72238d795e82c50007cecf4699
+hash: sha256:c12f57699390009f61bead04fb05046d18a437abc2d9e53f49a3a24434568442
